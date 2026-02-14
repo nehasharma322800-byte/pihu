@@ -1,2 +1,3 @@
 # pihu
-dghjh
+pwd
+ls
